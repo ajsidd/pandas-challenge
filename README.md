@@ -39,7 +39,7 @@ The goal of this project is to provide insights into various aspects of school p
 
 - This analysis is intended to provide stakeholders, including school administrators, policymakers, and educators, with valuable insights into school performance and student outcomes.
 - Feel free to explore and modify the code to suit specific analysis requirements or add further insights.
-- For any questions or feedback, please contact [Your Name] at [Your Email Address].
+- For any questions or feedback, please contact Amir Siddiqui  at siddiquiamir91@gmail.com.
 
 Thank you for your interest in the PyCity Schools Analysis project!
 
