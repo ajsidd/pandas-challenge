@@ -1,7 +1,3 @@
-Sure! Below is a sample README file for your PyCity Schools analysis project on GitHub:
-
----
-
 # PyCity Schools Analysis
 
 Welcome to the PyCity Schools Analysis project repository! This project involves the analysis of school performance and student outcomes within the PyCity School District. The analysis is conducted using Python's Pandas library and Jupyter Notebook.
